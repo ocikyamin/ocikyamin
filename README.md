@@ -9,7 +9,7 @@
 
 - 📝 My old blog can be seen at [https://yaminbe.blogspot.com/](https://yaminbe.blogspot.com/)
 
-- 💬 Ask me about **Codeigniter4, Bootstrap, AJAX, Canva**
+- 💬 Ask me about **PHP, Codeigniter4, MySQL, Bootstrap, AJAX, Wordpress, Canva**
 
 - 📫 How to reach me **ocikyamin@gmail.com**
 
