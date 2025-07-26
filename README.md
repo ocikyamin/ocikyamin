@@ -126,21 +126,6 @@ const yamin = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ocikyamin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocikyamin&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 💭 Developer Quote
 
@@ -148,23 +133,7 @@ const yamin = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20way%20to%20learn%20is%20to%20teach,%20and%20the%20best%20way%20to%20teach%20is%20to%20code%20with%20passion.&author=Yamin" alt="Quote" />
 </div>
 
----
 
-## 🌐 Let's Connect!
-
-<div align="center">
-  <p>
-    <i>Always open to interesting conversations about web development, teaching, and technology!</i>
-  </p>
-  
-  <img src="https://img.shields.io/badge/Based%20in-Bukittinggi,%20West%20Sumatra-00D9FF?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ocikyamin&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
