@@ -71,9 +71,7 @@ const yamin = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ocikyamin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ocikyamin&theme=tokyonight" alt="Profile Summary" />
-</div>
+
 
 ---
 
