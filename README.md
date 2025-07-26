@@ -1,25 +1,160 @@
-<h1 align="center">Hi 👋, I'm Yamin</h1>
-<h3 align="center">A passionate Web developer from dusun sibak 😎</h3>
+# Hi there! 👋 I'm [Your Name]
 
-- 🔭 I’m currently working on [PSB Management System](https://psb.mticanduang.sch.id/)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
 
-- 🌱 I’m currently learning **Laravel, React, Phyton**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;Creative+Problem+Solver;Digital+Innovation+Enthusiast" alt="Typing SVG" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ocikyamin](https://github.com/ocikyamin)
+---
 
-- 📝 My old blog can be seen at [https://yaminbe.blogspot.com/](https://yaminbe.blogspot.com/)
+## 🚀 About Me
 
-- 💬 Ask me about **PHP, Codeigniter4, MySQL, Bootstrap, AJAX, Wordpress, Canva**
+```typescript
+const developer = {
+    name: "Your Name",
+    location: "Bukittinggi, West Sumatra 🇮🇩",
+    role: "Full Stack Web Developer",
+    passion: ["Clean Code", "User Experience", "Innovation"],
+    currentFocus: "Building the future, one line of code at a time",
+    lifePhilosophy: "Code with purpose, design with empathy"
+};
+```
 
-- 📫 How to reach me **ocikyamin@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ocikyamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ocikyamin" height="30" width="40" /></a>
-<a href="https://fb.com/ocikyamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ocikyamin" height="30" width="40" /></a>
-<a href="https://instagram.com/ocikyamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ocikyamin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ocikyamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ocikyamin" height="30" width="40" /></a>
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,sass,tailwind,bootstrap&theme=dark" alt="Frontend Skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303672/laravel-1-logo.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🔧 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,mysql,postgresql,mongodb,redis&theme=dark" alt="Backend Skills" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,webpack,vite,npm,yarn,postman,figma&theme=dark" alt="Tools" />
+</p>
+
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku,firebase,linux&theme=dark" alt="Cloud & Deployment" />
+</p>
+
+</div>
+
+---
+
+## 📊 Development Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Wakatime Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+---
+
+## 🎯 Current Mission
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100"/>
+        <br><strong>🔥 Learning</strong>
+        <br>AI/ML Integration
+        <br>Web3 Technologies
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+        <br><strong>🚀 Building</strong>
+        <br>Next-gen Web Apps
+        <br>Open Source Projects
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
+        <br><strong>🎯 Goal</strong>
+        <br>Impact Through Code
+        <br>Community Growth
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Project 1" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Project 2" />
+  </a>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/yourhandle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" alt="Portfolio" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</div>
+
+---
+
+<div align="center">
+  <i>"The best way to predict the future is to create it."</i>
+  <br><br>
+  <sub>⭐ Star my repositories if you find them useful!</sub>
+</div>
