@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PSB Management System](https://psb.mticanduang.sch.id/)
 
-- 🌱 I’m currently learning **Laravel, React, Phyton**
+- 🌱 I’m currently learning **Laravel, React, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ocikyamin](https://github.com/ocikyamin)
 
