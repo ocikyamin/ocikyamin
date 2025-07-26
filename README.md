@@ -21,6 +21,9 @@ const yamin = {
     experience: "5+ years",
     specialization: ["Web Development", "Teaching", "Mentoring"],
     currentFocus: "Conquering NextJS Framework",
+    backend: ["Laravel", "CodeIgniter", "PHP", "Node.js"],
+    frontend: ["Vue.js", "Next.js", "Tailwind CSS", "Bootstrap"],
+    tools: ["Vite", "Inertia.js", "Git", "VS Code"],
     passion: ["Clean Code", "Student Success", "Innovation"],
     lifePhilosophy: "Code with purpose, teach with passion"
 };
@@ -44,12 +47,12 @@ const yamin = {
 
 ### 🔧 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,sqlite&theme=dark" alt="Backend & Database" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,sqlite&theme=dark" alt="Backend & Database" />
 </p>
 
 ### 🛠️ Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn&theme=dark" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,vite&theme=dark" alt="Development Tools" />
 </p>
 
 ### ☁️ Cloud & Deployment
@@ -115,11 +118,11 @@ const yamin = {
 </div>
 
 ### 🌟 What I Do:
-- 💻 **Develop** robust web applications with modern technologies
+- 💻 **Develop** robust web applications with Laravel, CodeIgniter & NextJS
 - 📚 **Teach** the next generation of developers
-- 🔍 **Research** and implement cutting-edge web solutions
-- 🤝 **Mentor** students and junior developers
-- 🚀 **Continuously learn** and adapt to new technologies
+- 🔍 **Research** and implement cutting-edge web solutions with modern stacks
+- 🤝 **Mentor** students and junior developers in full-stack development
+- 🚀 **Continuously learn** and master frameworks like NextJS and Inertia.js
 
 ---
 
