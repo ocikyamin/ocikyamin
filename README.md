@@ -68,7 +68,6 @@ const yamin = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocikyamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ocikyamin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Activity Graph" />
 </div>
 
 
