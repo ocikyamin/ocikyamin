@@ -66,7 +66,7 @@ const yamin = {
 ## 💭 Developer Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20way%20to%20learn%20is%20to%20teach,%20and%20the%20best%20way%20to%20teach%20is%20to%20code%20with%20passion.&author=Yamin" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20way%20to%20learn%20is%20to%20teach,%20and%20the%20best%20way%20to%20teach%20is%20to%20code%20with%20passion.&author=sia Yo" alt="Quote" />
 </div>
 
 
