@@ -30,13 +30,12 @@ const yamin = {
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ocikyamin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocikyamin&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech
 
 <div align="center">
 
@@ -63,66 +62,6 @@ const yamin = {
 </div>
 
 ---
-
-## 📊 Development Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocikyamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-
-
----
-
-## 🎯 Current Mission
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100"/>
-        <br><strong>🔥 Learning</strong>
-        <br>NextJS Mastery
-        <br>Advanced React Patterns
-        <br>Modern Web Architecture
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
-        <br><strong>👨‍🏫 Teaching</strong>
-        <br>Web Development
-        <br>Student Mentoring
-        <br>Knowledge Sharing
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
-        <br><strong>🎯 Goal</strong>
-        <br>NextJS Domination
-        <br>Inspiring Developers
-        <br>Building Amazing Apps
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 👨‍💻 Professional Journey
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Experience-5+%20Years-00D9FF?style=for-the-badge&logo=code&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-FF6B6B?style=for-the-badge&logo=developer&logoColor=white" alt="Developer" />
-  <img src="https://img.shields.io/badge/Role-Lecturer/Dosen-4CAF50?style=for-the-badge&logo=academicons&logoColor=white" alt="Lecturer" />
-</div>
-
-### 🌟 What I Do:
-- 💻 **Develop** robust web applications with Laravel, CodeIgniter & NextJS
-- 📚 **Teach** the next generation of developers
-- 🔍 **Research** and implement cutting-edge web solutions with modern stacks
-- 🤝 **Mentor** students and junior developers in full-stack development
-- 🚀 **Continuously learn** and master frameworks like NextJS and Inertia.js
-
----
-
 
 ## 💭 Developer Quote
 
