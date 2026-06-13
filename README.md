@@ -1,78 +1,31 @@
-# Hi there! 👋 I'm Yamin
+# Abdul Yamin
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
+> Lecturer | IT Practitioner | Web Developer
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Web+Developer;Passionate+Educator+%26+Lecturer;Web+Development+Enthusiast;5+Years+of+Coding+Excellence" alt="Typing SVG" />
-</div>
+📍 Bukittinggi, West Sumatra  
+🔗 [LinkedIn](https://www.linkedin.com/in/ocikyamin/?locale=en) · [YouTube](https://youtube.com/@ocikyamin)
 
 ---
 
-## 🚀 About Me
+### About
 
-```typescript
-const yamin = {
-    name: "Yamin",
-    username: "ocikyamin",
-    location: "Bukittinggi, West Sumatra 🇮🇩",
-    roles: ["Full Stack Web Developer", "Dosen/Lecturer"],
-    experience: "5+ years",
-    specialization: ["Web Development", "Teaching", "Mentoring"],
-    currentFocus: "Conquering NextJS Framework",
-    backend: ["Laravel", "CodeIgniter", "PHP", "Node.js"],
-    frontend: ["Vue.js", "Next.js", "Tailwind CSS", "Bootstrap"],
-    tools: ["Vite", "Inertia.js", "Git", "VS Code"],
-    passion: ["Clean Code", "Student Success", "Innovation"],
-    lifePhilosophy: "Code with purpose, teach with passion"
-};
-```
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocikyamin&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
+I'm a lecturer, IT practitioner, and web developer with 5+ years of experience teaching web programming, mobile, and desktop development, along with DSS and e-business. I build applications and systems that bridge education and technology.
 
 ---
 
-## ⚡ Tech
+### Tech Stack
 
-<div align="center">
+**Frontend:**  
+![Vue.js](https://skillicons.dev/icons?i=vue) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Pinia](https://skillicons.dev/icons?i=pinia)
 
-### 🎨 Frontend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nextjs,tailwind,bootstrap,sass&theme=dark" alt="Frontend Skills" />
-</p>
+**Backend:**  
+![Laravel](https://skillicons.dev/icons?i=laravel) ![PHP](https://skillicons.dev/icons?i=php) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Python](https://skillicons.dev/icons?i=python) ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
-### 🔧 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,sqlite&theme=dark" alt="Backend & Database" />
-</p>
+**Database:**  
+![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MariaDB](https://skillicons.dev/icons?i=mariadb) ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-### 🛠️ Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,vite&theme=dark" alt="Development Tools" />
-</p>
+**Infrastructure:**  
+![Linux](https://skillicons.dev/icons?i=linux) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Apache](https://skillicons.dev/icons?i=apache)
 
-### ☁️ Cloud & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify&theme=dark" alt="Cloud & Deployment" />
-</p>
-
-</div>
-
----
-
-
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
-
----
-
-<div align="center">
-  <i>"Code is poetry written in logic, and teaching is the art of sharing that poetry."</i>
-  <br><br>
-  <sub>⭐ Star my repositories if you find them useful! Happy coding! 🚀</sub>
-</div>
+**Tools:**  
+![Git](https://skillicons.dev/icons?i=git) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Vite](https://skillicons.dev/icons?i=vite) ![npm](https://skillicons.dev/icons?i=npm) ![Yarn](https://skillicons.dev/icons?i=yarn) ![Canva](https://skillicons.dev/icons?i=canva)
