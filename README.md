@@ -1,6 +1,6 @@
 # Abdul Yamin
 
-> Lecturer | IT Practitioner | Web Developer
+> Lecturer | Software Engineer
 
 📍 Bukittinggi, West Sumatra  
 🔗 [LinkedIn](https://www.linkedin.com/in/ocikyamin/?locale=en) · [YouTube](https://youtube.com/@ocikyamin)
@@ -9,7 +9,7 @@
 
 ### About
 
-I'm a lecturer, IT practitioner, and web developer with 5+ years of experience teaching web programming, mobile, and desktop development, along with DSS and e-business. I build applications and systems that bridge education and technology.
+I build applications and systems that bridge education and technology.
 
 ---
 
