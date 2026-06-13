@@ -3,7 +3,8 @@
 > Lecturer | Software Engineer
 
 📍 Bukittinggi, West Sumatra  
-🔗 [LinkedIn](https://www.linkedin.com/in/ocikyamin/?locale=en) · [YouTube](https://youtube.com/@ocikyamin)
+<a href="https://www.linkedin.com/in/ocikyamin/?locale=en"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="20"/></a>
+<a href="https://youtube.com/@ocikyamin"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="20"/></a>
 
 ---
 
